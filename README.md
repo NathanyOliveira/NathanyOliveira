@@ -1,5 +1,5 @@
  <div>
-    <img align="right" alt="Nathy-coding" height="270em"  src="coding.png">
+    <img align="right" alt="Nathy-coding" height="270em"  src="code.png">
  </div>
    
  <div>
