@@ -4,7 +4,7 @@
    
  <div>
    <p><h1>Hi there! I'm Nathany Oliveira Maciel.  👋  </h1></br>
-- 🔭 I’m currently working as a Trainee Developer.  </br>
+- 🔭 I’m currently working as a Trainee Developer - Focus on JavaScript.  </br>
 - 🌱 I’m learning Java, Spring Boot and Angular. </br>
 - 💬 Ask me about tips to study English. </br>
 - 😄 Pronouns: she/her </br>
