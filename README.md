@@ -14,10 +14,6 @@
 - ✉ Reach me at: macielnathany@gmail.com </p>
 </div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanyoliveira&layout=compact&langs_count=7&theme=dracula"/></p>
-
-  
-
 
 
   
