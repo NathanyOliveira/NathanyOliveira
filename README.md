@@ -9,7 +9,7 @@
 - 📖 Reading Clean Code - Robert Cecil Martin</br>
 - 💬 Ask me about tips to study English. </br>
 - 😄 Pronouns: she/her </br>
-- 👨‍🎓 Studing Full Stack development - Digital House Brasil </br>
+- 👨‍🎓 Studying Full Stack development - Digital House Brasil </br>
 - 👩‍🏫 Graduated in Languages, worked as an English teacher.</br>
 - ✉ Reach me at: macielnathany@gmail.com </p>
 </div>
