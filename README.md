@@ -6,9 +6,9 @@
    <p><h1>Hi there! I'm Nathany Oliveira Maciel.  👋  </h1></br>
 - 📖 Reading Clean Code - Robert Cecil Martin</br>
 - 😄 Pronouns: she/her </br>
-- 👨‍🎓 Studying Full Stack development - Digital House Brasil </br>
-- 👨‍🎓 Barchelor's degree in Computer Science (2022 - 2025) </br>
-- 👩‍🏫 Graduated in Languages and worked as an English teacher </br>
+- 👨‍🎓 Studying Full Stack development - Digital House Brasil (2021 - 2023) </br>
+- 👨‍🎓 Barchelor's degree in Computer Science (2022 - 2026) </br>
+- 👩‍🏫 Graduated in Languages - Portuguese and English </br>
 - ✉ Reach me at: macielnathany@gmail.com </p>
 </div>
 
