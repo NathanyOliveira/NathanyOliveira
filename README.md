@@ -7,7 +7,7 @@
 - 📖 Reading Clean Code - Robert Cecil Martin</br>
 - 😄 Pronouns: she/her </br>
 - 👨‍🎓 Studying Full Stack development - Digital House Brasil (2021 - 2023) </br>
-- 👨‍🎓 Barchelor's degree in Computer Science (2022 - 2026) </br>
+- 👨‍🎓 Barchelor's degree in Computer Science (2022 - 2025) </br>
 - 👩‍🏫 Graduated in Languages - Portuguese and English </br>
 - ✉ Reach me at: macielnathany@gmail.com </p>
 </div>
