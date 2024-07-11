@@ -5,9 +5,8 @@
  <div>
    <p><h1>Hi there! I'm Nathany Oliveira Maciel.  👋  </h1></br>
 - 😄 Pronouns: she/her </br>
-- 👨‍🎓 Studying Full Stack development - Digital House Brasil (2021 - 2023) </br>
 - 👨‍🎓 Barchelor's degree in Computer Science (2022 - 2025) </br>
-- 👩‍🏫 Graduated in Languages - Portuguese and English </br>
+- 👩‍🏫 Graduated in Languages/Literature </br>
 - ✉ Reach me at: macielnathany@gmail.com </p>
 </div>
 
